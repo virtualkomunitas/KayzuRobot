@@ -390,7 +390,7 @@ def skyzu_about_callback(update, context):
                         InlineKeyboardButton(text="Credits", callback_data="skyzu_credit"),
                     ],
                     [
-                        InlineKeyboardButton(text=gs(chat.id, "source_button"), url="https://github.com/Kayzyu/KayzuRobot"),
+                        InlineKeyboardButton(text=gs(chat.id, "source_button"), url="https://t.me/Kayzuuuuu"),
                     ],
                     [
                     InlineKeyboardButton(text=gs(chat.id, "back_button"), callback_data="skyzu_back"),
