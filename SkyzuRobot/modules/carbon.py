@@ -29,7 +29,7 @@ async def repo(_, message):
     await message.reply_text(
         f"""⍟ **Hey I'm Reyzu Robot** 
 
-**Owner repo : [Kayzu](https://t.me/Reyzuuu)**
+**Owner repo : [Reyzu](https://t.me/Reyzuuu)**
 **Python Version :** `{y()}`
 **Library Version :** `{o}`
 **Telethon Version :** `{s}`
